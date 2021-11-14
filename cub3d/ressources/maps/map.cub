@@ -1,0 +1,24 @@
+R  800  5467456764
+NO ./ressources/std/textures/greystone.xpm
+SO ./ressources/std/textures/mossy.xpm
+WE ./ressources/std/textures/wood.xpm
+EA ./ressources/std/textures/redbrick.xpm
+S ./ressources/std/textures/barrel.xpm
+F 100,79,88
+C 53,76,200
+
+
+11111111111111
+10000000000001
+12001000000021
+10001000100001
+10000000000001
+12020202020021
+10000000000001
+10000000000001
+12000000000021
+100000N0000001
+11111111111111
+
+
+
